@@ -1,0 +1,22 @@
+C:\Users\user\Desktop\Новая папка\sortthing\classes\bin\Debug\net6.0-windows\classes.deps.json
+C:\Users\user\Desktop\Новая папка\sortthing\classes\bin\Debug\net6.0-windows\classes.dll
+C:\Users\user\Desktop\Новая папка\sortthing\classes\bin\Debug\net6.0-windows\classes.pdb
+C:\Users\user\Desktop\Новая папка\sortthing\classes\obj\Debug\net6.0-windows\classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Новая папка\sortthing\classes\obj\Debug\net6.0-windows\classes.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Новая папка\sortthing\classes\obj\Debug\net6.0-windows\classes.AssemblyInfo.cs
+C:\Users\user\Desktop\Новая папка\sortthing\classes\obj\Debug\net6.0-windows\classes.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка\sortthing\classes\obj\Debug\net6.0-windows\classes.dll
+C:\Users\user\Desktop\Новая папка\sortthing\classes\obj\Debug\net6.0-windows\refint\classes.dll
+C:\Users\user\Desktop\Новая папка\sortthing\classes\obj\Debug\net6.0-windows\classes.pdb
+C:\Users\user\Desktop\Новая папка\sortthing\classes\obj\Debug\net6.0-windows\ref\classes.dll
+C:\Users\user\Desktop\sortthing\classes\bin\Debug\net6.0-windows\classes.deps.json
+C:\Users\user\Desktop\sortthing\classes\bin\Debug\net6.0-windows\classes.dll
+C:\Users\user\Desktop\sortthing\classes\bin\Debug\net6.0-windows\classes.pdb
+C:\Users\user\Desktop\sortthing\classes\obj\Debug\net6.0-windows\classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\sortthing\classes\obj\Debug\net6.0-windows\classes.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\sortthing\classes\obj\Debug\net6.0-windows\classes.AssemblyInfo.cs
+C:\Users\user\Desktop\sortthing\classes\obj\Debug\net6.0-windows\classes.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\sortthing\classes\obj\Debug\net6.0-windows\classes.dll
+C:\Users\user\Desktop\sortthing\classes\obj\Debug\net6.0-windows\refint\classes.dll
+C:\Users\user\Desktop\sortthing\classes\obj\Debug\net6.0-windows\classes.pdb
+C:\Users\user\Desktop\sortthing\classes\obj\Debug\net6.0-windows\ref\classes.dll

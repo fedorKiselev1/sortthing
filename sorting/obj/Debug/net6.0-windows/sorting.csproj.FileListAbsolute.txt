@@ -1,0 +1,48 @@
+C:\Users\user\Desktop\Новая папка\sortthing\sorting\bin\Debug\net6.0-windows\sorting.exe
+C:\Users\user\Desktop\Новая папка\sortthing\sorting\bin\Debug\net6.0-windows\sorting.deps.json
+C:\Users\user\Desktop\Новая папка\sortthing\sorting\bin\Debug\net6.0-windows\sorting.runtimeconfig.json
+C:\Users\user\Desktop\Новая папка\sortthing\sorting\bin\Debug\net6.0-windows\sorting.dll
+C:\Users\user\Desktop\Новая папка\sortthing\sorting\bin\Debug\net6.0-windows\sorting.pdb
+C:\Users\user\Desktop\Новая папка\sortthing\sorting\bin\Debug\net6.0-windows\classes.dll
+C:\Users\user\Desktop\Новая папка\sortthing\sorting\bin\Debug\net6.0-windows\classes.pdb
+C:\Users\user\Desktop\Новая папка\sortthing\sorting\obj\Debug\net6.0-windows\sorting.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Новая папка\sortthing\sorting\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\Новая папка\sortthing\sorting\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\user\Desktop\Новая папка\sortthing\sorting\obj\Debug\net6.0-windows\sorting_MarkupCompile.cache
+C:\Users\user\Desktop\Новая папка\sortthing\sorting\obj\Debug\net6.0-windows\sorting_MarkupCompile.lref
+C:\Users\user\Desktop\Новая папка\sortthing\sorting\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\user\Desktop\Новая папка\sortthing\sorting\obj\Debug\net6.0-windows\sorting.g.resources
+C:\Users\user\Desktop\Новая папка\sortthing\sorting\obj\Debug\net6.0-windows\sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Новая папка\sortthing\sorting\obj\Debug\net6.0-windows\sorting.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Новая папка\sortthing\sorting\obj\Debug\net6.0-windows\sorting.AssemblyInfo.cs
+C:\Users\user\Desktop\Новая папка\sortthing\sorting\obj\Debug\net6.0-windows\sorting.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка\sortthing\sorting\obj\Debug\net6.0-windows\sorting.csproj.CopyComplete
+C:\Users\user\Desktop\Новая папка\sortthing\sorting\obj\Debug\net6.0-windows\sorting.dll
+C:\Users\user\Desktop\Новая папка\sortthing\sorting\obj\Debug\net6.0-windows\refint\sorting.dll
+C:\Users\user\Desktop\Новая папка\sortthing\sorting\obj\Debug\net6.0-windows\sorting.pdb
+C:\Users\user\Desktop\Новая папка\sortthing\sorting\obj\Debug\net6.0-windows\sorting.genruntimeconfig.cache
+C:\Users\user\Desktop\Новая папка\sortthing\sorting\obj\Debug\net6.0-windows\ref\sorting.dll
+C:\Users\user\Desktop\sortthing\sorting\bin\Debug\net6.0-windows\sorting.exe
+C:\Users\user\Desktop\sortthing\sorting\bin\Debug\net6.0-windows\sorting.deps.json
+C:\Users\user\Desktop\sortthing\sorting\bin\Debug\net6.0-windows\sorting.runtimeconfig.json
+C:\Users\user\Desktop\sortthing\sorting\bin\Debug\net6.0-windows\sorting.dll
+C:\Users\user\Desktop\sortthing\sorting\bin\Debug\net6.0-windows\sorting.pdb
+C:\Users\user\Desktop\sortthing\sorting\bin\Debug\net6.0-windows\classes.dll
+C:\Users\user\Desktop\sortthing\sorting\bin\Debug\net6.0-windows\classes.pdb
+C:\Users\user\Desktop\sortthing\sorting\obj\Debug\net6.0-windows\sorting.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\sortthing\sorting\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\sortthing\sorting\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\user\Desktop\sortthing\sorting\obj\Debug\net6.0-windows\sorting_MarkupCompile.cache
+C:\Users\user\Desktop\sortthing\sorting\obj\Debug\net6.0-windows\sorting_MarkupCompile.lref
+C:\Users\user\Desktop\sortthing\sorting\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\user\Desktop\sortthing\sorting\obj\Debug\net6.0-windows\sorting.g.resources
+C:\Users\user\Desktop\sortthing\sorting\obj\Debug\net6.0-windows\sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\sortthing\sorting\obj\Debug\net6.0-windows\sorting.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\sortthing\sorting\obj\Debug\net6.0-windows\sorting.AssemblyInfo.cs
+C:\Users\user\Desktop\sortthing\sorting\obj\Debug\net6.0-windows\sorting.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\sortthing\sorting\obj\Debug\net6.0-windows\sorting.csproj.CopyComplete
+C:\Users\user\Desktop\sortthing\sorting\obj\Debug\net6.0-windows\sorting.dll
+C:\Users\user\Desktop\sortthing\sorting\obj\Debug\net6.0-windows\refint\sorting.dll
+C:\Users\user\Desktop\sortthing\sorting\obj\Debug\net6.0-windows\sorting.pdb
+C:\Users\user\Desktop\sortthing\sorting\obj\Debug\net6.0-windows\sorting.genruntimeconfig.cache
+C:\Users\user\Desktop\sortthing\sorting\obj\Debug\net6.0-windows\ref\sorting.dll
